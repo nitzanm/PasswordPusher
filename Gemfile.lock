@@ -191,8 +191,6 @@ GEM
     thor (0.19.4)
     thread_safe (0.3.6)
     tilt (2.0.8)
-    timers (4.1.2)
-      hitimes
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     uglifier (4.1.12)
@@ -218,7 +216,6 @@ DEPENDENCIES
   haml
   haml-rails
   high_voltage
-  instana
   jquery-rails
   json (~> 2.0)
   modernizr-rails!
