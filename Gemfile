@@ -38,4 +38,4 @@ group :private do
   gem "sqlite3"
 end
 
-gem "instana"
+gem "instana", "1.7.14"
